@@ -8,5 +8,5 @@ It includes Spock Reports https://github.com/renatoathaydes/spock-reports
 gradlew clean test
 ```
 
-![Report Image](https://github.com/jshingler/spockRestExample/docs/report.png "Report Image")
+![Report Image](https://github.com/jshingler/spockRestExample/blob/master/docs/report.png "Report Image")
 
